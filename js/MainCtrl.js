@@ -111,6 +111,75 @@ var Games = [
     description: 'an XKCD comic ?',
     url:'http://xkcd.com/1344/' 
   },
+  {
+    description: '2048 on fire ?',
+    url:'http://fabricionaweb.github.io/katon-2048/' 
+  },
+  {
+    description: 'playing 2048 against the clock ?',
+    url:'http://balderdash.github.io/2048/' 
+  },
+  {
+    description: 'a double 2048 ?',
+    url:'http://baiqiang.github.io/2048-double/' 
+  },
+  {
+    description: 'a 5D 2048 ?',
+    url:'http://cesarkawakami.github.io/2048-5D/' 
+  },
+  {
+    description: 'playing against an evil AI ?',
+    url:'http://aj-r.github.io/Evil-2048/' 
+  },
+  {
+    description: 'choosing your difficulty ?',
+    url:'http://poweroftwo.nemoidstudio.com/32768' 
+  },
+  {
+    description: 'playing with undo ?',
+    url:'http://quaxio.com/2048/' 
+  },
+  {
+    description: 'going from 2048 to one ?',
+    url:'http://jonastermeau.com/files/others/2048%5E0/' 
+  },
+  {
+    description: 'only getting 4s ?',
+    url:'http://hexafluoride.github.io/2048/' 
+  },
+  {
+    description: 'fibonacci\'s sequence ?',
+    url:'http://mike199515.free3v.com/1597/2.htm' 
+  },
+  {
+    description: 'an XKCD comic ? Yep, I know, that\'s not a game, but it\'s funny anyway',
+    url:'http://xkcd.com/1344/' 
+  },
+  {
+    description: 'removing the randomness ?',
+    url:'http://jmfork.github.io/2048/' 
+  },
+  {
+    description: 'a K-pop variant ?',
+    url:'http://marumichannel.github.io/2048/' 
+  },
+
+  {
+    description: 'playing with Pokemons ?',
+    url:'http://amschrader.github.io/2048/' 
+  },
+  {
+    description: 'merging 3 tiles at once ?',
+    url:'http://hgentry.github.io/81/' 
+  },
+  {
+    description: 'playing on a single column ?',
+    url:'http://tiansh.github.io/2048/' 
+  },
+  {
+    description: 'writing your own AI ?',
+    url:'http://murgo.github.io/2048/' 
+  }
 ];
 
 function MainCtrl($scope, $window) {
