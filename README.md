@@ -4,11 +4,11 @@ This project contains the source code for http://2048craze.keiruaprod.fr
 
 ## Adding games
 
-What js/MainCtrl.js
+What you are looking for is in js/MainCtrl.js
 
 ## Feel like contributing ?
 
-Well, if you are here, it's either because you want to see the list of games directly, or because you want to add a game to the list. Pull requests are welcome !
+Well, if you are here, it's either because you want to see the list of games directly, or because you want to add a game to the list. In latter case, pull requests are welcome !
 
 ## Disclaimer
 
